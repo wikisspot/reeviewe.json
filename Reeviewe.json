@@ -1,0 +1,38 @@
+﻿{
+  "name": "Reeviewe",
+  "short_name": "Reeviewe",
+  "start_url": "https://www.Reeviewe/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Reviewe.com adalah situs yang menyediakan Review / ulasan dan tinjauan tentang berbagai produk dan layanan.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/s48/Reeviewe.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/s72/Reeviewe.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/s96/Reeviewe.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/s144/Reeviewe.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/s168/Reeviewe.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/192/Reeviewe.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcQ19RXQ_-FJhVs9GIy9gljR28GeI4FjD8EaHE0IgMvTwXpHtB6EdHenlTx_aZhROxbkgOM3lOKS1_S9pG78xqVFSlAYDna2HfqSTxTdoBN8ELlZ5aztYmbevsxRW_O7qcZzWbKr-FTPXTrrtbR6_NykiQSGRo7CLgqDgxxDzLvRMu_5sNl72M5qzFA/s512/Reeviewe.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
